@@ -1,0 +1,17 @@
+{
+    "name": "dchincharashvili/packageist_test",
+    "description": "test app",
+    "type": "library",
+    "authors": [
+        {
+            "name": "david chincharashvili",
+            "email": "davidchincharashvili@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Dapp\\": "app"
+        }
+    }
+}
